@@ -1,10 +1,7 @@
-## Hi there 👋
-
+## Hello, I'm Nadia 👋
 <!--
 **nadiashabeer/nadiashabeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +11,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me
+- 🔭 I'm a coding geek with M.Eng in Software and B.SC in Computer Engineering.
+- 🌱 I'm expanding my world with AWS Cloud Skills, Terraform and Kubernetes.
+- 📫 You can reach me at nadiafshabeer@gmail.com
+- ⚡ Fun fact: I'm at AR 58 on Genshin Impact.
+
+## Projects 
+- [3-Tier-HA-CI-CD](https://github.com/nadiashabeer/3-Tier-HA-CI-CD) - 3 Tier Highly Available AWS architecture with CI/CD pipeline action.
+- [terraform-platform](https://github.com/nadiashabeer/terraform-platform) - Simple AWS architecture designed through terraform IAC.
+
