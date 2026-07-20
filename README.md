@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🔭 I'm a coding geek with M.Eng in Software and B.SC in Computer Engineering.
 - 🌱 I'm expanding my world with AWS Cloud Skills, Terraform and Kubernetes.
 - 📫 You can reach me at nadiafshabeer@gmail.com
-- ⚡ Fun fact: I'm at AR 58 on Genshin Impact.
+- ⚡ Fun fact: I'm at AR 58 on Genshin Impact, I love anime, and I'm Seventeens' Carat  
 
 ## Projects 
 - [3-Tier-HA-CI-CD](https://github.com/nadiashabeer/3-Tier-HA-CI-CD) - 3 Tier Highly Available AWS architecture with CI/CD pipeline action.
